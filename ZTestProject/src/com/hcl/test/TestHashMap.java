@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 /**
- * 
+ * This is the TestHashMap Class to test various function related to Map. 
  * @author vipin.r
- *
+ * 
  */
 public class TestHashMap {
 
