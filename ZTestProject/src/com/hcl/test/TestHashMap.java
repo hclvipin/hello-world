@@ -9,9 +9,11 @@ import java.util.Map;
  * 
  */
 public class TestHashMap {
-
+/**
+*main method
+*/
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 		HashMap<String, Integer> map = new HashMap<>();
 		for (int i = 0; i < 15; i++) {
