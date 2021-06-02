@@ -1,5 +1,5 @@
 
-dbFeDeploySrcList=findFiles(excludes: '', glob: '${vars.deploySource}\\?_?eploy')
+dbFeDeploySrcList=findFiles(excludes: '', glob: '${vars.deploySource}\\?_?')
 
 for (ii = 0; ii < dbFeDeploySrcList.size(); ii++) {
 	if (dbFeDeploySrcList[ii].equalsIgnoreCase("fe_deploy")) {
