@@ -12,10 +12,6 @@ for (ii = 0; ii < dbFeDeploySrcList.size(); ii++) {
 	}
 }
 
-
-
-
-
 in fe zip > 
 
 glob: "${vars.feDeploySourceFolder}/**"
